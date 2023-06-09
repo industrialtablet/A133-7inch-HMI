@@ -11,7 +11,7 @@
 ![Allwinner A133 7inch HMI PCB View](./Documents/PCB-View.png)
 - HMI PCB Size
 ![Allwinner A133 7inch HMI PCB View](./Documents/PCB-Size.png)
-[Download DXF file of PCB-SIZE](./Documents/RWA030-CARR-V1.0-20230411-SIZE.dxf)
+[Download DXF file of PCB-SIZE](./Documents/RWA030-CARR-V1.0-20230411-SIZE.dxf) ｜ 
 [Download PDF file of PCB-SIZE](./Documents/RWA030-CARR-V1.0-20230411-SIZE.pdf)
 
 # 7inch HMI Documents
