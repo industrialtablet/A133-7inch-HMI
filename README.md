@@ -1,12 +1,22 @@
 # Allwinner A133-7inch-HMI
 
 ## 7inch HMI Pictures Show
-- PCBA and LCD
-![Allwinner A133 7inch HMI PCB View with LCD](./Documents/PCB-View-with-LCD-Front.jpeg)
-- PCBA and LCD
-![Allwinner A133 7inch HMI PCB View with LCD](./Documents/PCB-View-with-LCD.jpeg)
-PCBA Top and Buttom
-![Allwinner A133 7inch HMI PCB View with LCD](./Documents/PCB-View.jpeg)
+- HMI PCBA and LCD View
+![Allwinner A133 7inch HMI PCBA View with LCD](./Documents/PCBA-View-with-LCD-Front.jpeg)
+- HMI PCBA and LCD View
+![Allwinner A133 7inch HMI PCBA View with LCD](./Documents/PCBA-View-with-LCD.jpeg)
+- HMI PCBA Top and Buttom View
+![Allwinner A133 7inch HMI PCBA View Top and Buttom](./Documents/PCBA-View.jpeg)
+- HMI PCB View
+![Allwinner A133 7inch HMI PCB View](./Documents/PCB-View.png)
+- HMI PCB Size
+![Allwinner A133 7inch HMI PCB View](./Documents/PCB-Size.png)
+[Download DXF file of PCB-SIZE](./Documents/RWA030-CARR-V1.0-20230411-SIZE.dxf)
+[Download PDF file of PCB-SIZE](./Documents/RWA030-CARR-V1.0-20230411-SIZE.pdf)
+
+# 7inch HMI Documents
+- [01 7inch HMI CPU A133 Datasheet.pdf](./Documents/A133_Datasheet_V1.1.pdf)
+
 # Contacts
 
 - Website: www.we-signage.com
