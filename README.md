@@ -26,7 +26,7 @@
 
 # 7inch HMI Firmware Update tools
 - [7inch HMI Firmware Update tools (PhoenixSuit_EN) Download](./Documents/PhoenixSuit_EN.msi)
-- [7inch HMI Firmware Update tools (PhoenixSuit_EN) UserUser Manual](./Documents/PhoenixSuit_EN.msi)
+- [7inch HMI Firmware Update tools (PhoenixSuit_EN) UserUser Manual](./Documents/PhoenixSuit.pdf)
 
 # Contacts
 
