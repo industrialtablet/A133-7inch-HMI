@@ -1,6 +1,11 @@
 # Allwinner A133-7inch-HMI
+
+## 7inch HMI Pictures Show
+- PCBA and LCD
 ![Allwinner A133 7inch HMI PCB View with LCD](./Documents/PCB-View-with-LCD-Front.jpeg)
+- PCBA and LCD
 ![Allwinner A133 7inch HMI PCB View with LCD](./Documents/PCB-View-with-LCD.jpeg)
+PCBA Top and Buttom
 ![Allwinner A133 7inch HMI PCB View with LCD](./Documents/PCB-View.jpeg)
 # Contacts
 
