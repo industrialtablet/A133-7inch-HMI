@@ -5,11 +5,11 @@
 ![Allwinner A133 7inch HMI PCBA View with LCD](./Documents/PCBA-View-with-LCD-Front.jpeg)
 - HMI PCBA and LCD View
 ![Allwinner A133 7inch HMI PCBA View with LCD](./Documents/PCBA-View-with-LCD.jpeg)
-- HMI PCBA Top and Buttom View
+- HMI PCBA Top and Bottom View
 ![Allwinner A133 7inch HMI PCBA View Top and Buttom](./Documents/PCBA-View.jpeg)
 - HMI PCB View
 ![Allwinner A133 7inch HMI PCB View](./Documents/PCB-View.png)
-- HMI PCB Size
+- HMI PCB Size (186.3mm*105.4mm)
 ![Allwinner A133 7inch HMI PCB View](./Documents/PCB-Size.png)
 [Download DXF file of PCB-SIZE](./Documents/RWA030-CARR-V1.0-20230411-SIZE.dxf) ｜ 
 [Download PDF file of PCB-SIZE](./Documents/RWA030-CARR-V1.0-20230411-SIZE.pdf)
@@ -21,6 +21,11 @@
 - [【04】7inch HMI PCB SIZE.dxf](./Documents/RWA030-CARR-V1.0-20230411-SIZE.dxf)
 - [【05】7inch HMI PCB TOP View.pdf](./Documents/RWA030-CARR-V1.0-20230411-TOP.pdf)
 - [【06】7inch HMI PCB TOP View.dxf](./Documents/RWA030-CARR-V1.0-20230411-TOP.dxf)
+
+# 7inch HMI Firmware Update tools
+- [7inch HMI Firmware Update tools (PhoenixSuit_EN) Download](./Documents/PhoenixSuit_EN.msi)
+- [7inch HMI Firmware Update tools (PhoenixSuit_EN) UserUser Manual](./Documents/PhoenixSuit_EN.msi)
+
 # Contacts
 
 - Website: www.we-signage.com
